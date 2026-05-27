@@ -1,26 +1,28 @@
 # Hi, I'm Tom
 
-Fullstack engineer. 42 Heilbronn and Hochschule Heilbronn graduate.
-I like building things to learn, to solve problems I face, or making impact.
+Fullstack engineer. 42 Heilbronn graduate.  
+I like building things to learn, to solve problems I face, or making impact.  
+Currently building production Go services and learning fullstack engineering end to end.
 
 ---
 
 ## 🛠️ Skills
 
 ### Languages
-[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)](#)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)](#)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](#)
 
 ### Frameworks & Libraries
-[![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)](#)
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)](#)
+[![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)](#)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)](#)
 
 ### Databases
@@ -45,9 +47,13 @@ I like building things to learn, to solve problems I face, or making impact.
 
 ## 📂 Selected projects
 
-#### [Incident Handoff](https://github.com/TomTris/Incident_Handoff) `Go`
+#### [Incident Handoff](https://github.com/TomTris/Incident_Handoff) `Go` `Vue` `MongoDB` `Docker`
 
-Service for on-call engineers. When you've been firefighting for hours and need to hand context to the next person, Slack fragments don't cut it. This captures timestamped actions and generates a structured brief. MongoDB + in-memory stores, WebSocket real-time sync, Prometheus metrics, feature flags. Built from scratch to understand fullstack engineering deeply. Frontend (Vue) in progress.
+Service for on-call engineers in YBIYRI teams. When you've been firefighting for hours and need to hand context to the next person, Slack fragments don't cut it. Captures timestamped actions during incidents and generates structured handoff briefs. WebSocket real-time sync, Prometheus metrics, feature flags, contract tests and integration tests. Built from scratch to understand every layer. Frontend (Vue + TypeScript) in progress.
+
+#### [Cloud-level3](https://github.com/TomTris/Cloud-level3) `Go` `Vue` `Kubernetes` `Docker`
+
+Cloud-native application with Go backend, Vue frontend, PostgreSQL via PGO operator, containerized deployment on Kubernetes.
 
 #### [matrix-discord-bridge](https://github.com/TomTris/matrix-discord-bridge) `Docs`
 
@@ -59,7 +65,7 @@ CLI that polls the IHK Heilbronn API for §34a exam slots and alerts via macOS n
 
 #### [ft_transcendence](https://github.com/TomTris/42-ft_transcendence) `Python` `JS`
 
-Final 42 project. Multiplayer Pong SPA — Django, PostgreSQL, Redis, JWT + 2FA, real-time chat, AI opponent, ModSecurity WAF, HashiCorp Vault. This one finished my core curriculum.
+Final 42 project. Multiplayer Pong SPA — Django, PostgreSQL, Redis, JWT + 2FA, real-time chat, AI opponent, ModSecurity WAF, HashiCorp Vault, Docker.
 
 #### [Minishell](https://github.com/TomTris/42-Minishell) `C` — 125/125
 
@@ -69,13 +75,7 @@ Bash 5.2 replica in pure C. Solo. Pipes, redirections, heredocs, variable expans
 
 Raytracer. Phong lighting, reflections, texture/bump mapping, multi-threaded rendering. Spheres, planes, cylinders, cones.
 
-#### [dslr](https://github.com/TomTris/dslr) `Python`
-
-First ML project. Logistic regression on a Harry Potter sorting dataset. Statistics from scratch, data visualization (histograms, scatter plots, pair plots), training and prediction pipeline.
-
 ---
-
-## About me
 
 When something matters, I build it from scratch until I understand every layer.
 When it doesn't, I get it done and move on.
