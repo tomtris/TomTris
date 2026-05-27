@@ -27,6 +27,7 @@ Currently building production Go services and learning fullstack engineering end
 
 ### Databases
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](#)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](#)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)](#)
 [![Firebase](https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=white)](#)
@@ -58,6 +59,10 @@ Cloud-native application with Go backend, Vue frontend, PostgreSQL via PGO opera
 #### [matrix-discord-bridge](https://github.com/TomTris/matrix-discord-bridge) `Docs`
 
 Step-by-step guide for self-hosting a Discord ↔ Matrix bridge on Railway. I wrote this because the Synapse docs don't explain Railway, the mautrix-discord docs don't walk you through Synapse, Railway docs don't cover Matrix, and v0.7.x broke every existing tutorial. 7 parts, PostgreSQL to first bridged channel.
+
+#### [StrongLifts 5×5 Tracker](https://github.com/TomTris/stronglifts) `Go` `Vue` `TypeScript`
+
+Self-hosted workout tracker for the StrongLifts 5×5 program. Go backend with embedded Vue 3 + TypeScript frontend, SQLite, Google OAuth, REST API (24 endpoints), PWA. Single binary, zero dependencies.
 
 #### [IHK Appointment Watcher](https://github.com/TomTris/IHK-appointment) `Go`
 
