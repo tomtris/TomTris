@@ -60,10 +60,6 @@ Cloud-native application with Go backend, Vue frontend, PostgreSQL via PGO opera
 
 Step-by-step guide for self-hosting a Discord ↔ Matrix bridge on Railway. I wrote this because the Synapse docs don't explain Railway, the mautrix-discord docs don't walk you through Synapse, Railway docs don't cover Matrix, and v0.7.x broke every existing tutorial. 7 parts, PostgreSQL to first bridged channel.
 
-#### [StrongLifts 5×5 Tracker](https://github.com/TomTris/stronglifts) `Go` `Vue` `TypeScript`
-
-Self-hosted workout tracker for the StrongLifts 5×5 program. Go backend with embedded Vue 3 + TypeScript frontend, SQLite, Google OAuth, REST API (24 endpoints), PWA. Single binary, zero dependencies.
-
 #### [IHK Appointment Watcher](https://github.com/TomTris/IHK-appointment) `Go`
 
 CLI that polls the IHK Heilbronn API for §34a exam slots and alerts via macOS notification when an earlier appointment opens. Built it because I wasn't going to refresh that page 200 times a day.
