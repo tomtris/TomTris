@@ -1,8 +1,8 @@
 # Hi, I'm Tom
 
-Fullstack engineer. 42 Heilbronn graduate.  
-I like building things to learn, to solve problems I face, or making impact.  
-Currently building production Go services and learning fullstack engineering end to end.
+42 Heilbronn graduate + Business Informatics Specialists  
+I like building things to learn, to solve problems I face, or making impact.
+Currently looking for a direction for my career.
 
 ---
 
@@ -38,7 +38,6 @@ Currently building production Go services and learning fullstack engineering end
 [![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)](#)
-[![HashiCorp Vault](https://img.shields.io/badge/Vault-FFEC6E?logo=vault&logoColor=black)](#)
 
 ### OS
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
