@@ -51,6 +51,10 @@ Currently looking for a direction for my career.
 
 Service for on-call engineers in YBIYRI teams. When you've been firefighting for hours and need to hand context to the next person, Slack fragments don't cut it. Captures timestamped actions during incidents and generates structured handoff briefs. WebSocket real-time sync, Prometheus metrics, feature flags, contract tests and integration tests. Built from scratch to understand every layer. Frontend (Vue + TypeScript) in progress.
 
+#### [Minishell](https://github.com/TomTris/42-Minishell) `C` — 125/125
+
+Mini-Bash 5.2 replica in pure C. Solo. Pipes, redirections, heredocs, variable expansion, wildcards, subshells, all builtins. ~300 hours across 3 weeks.
+
 #### [Cloud-level3](https://github.com/TomTris/Cloud-level3) `Go` `Vue` `Kubernetes` `Docker`
 
 Cloud-native application with Go backend, Vue frontend, PostgreSQL via PGO operator, containerized deployment on Kubernetes.
@@ -59,26 +63,15 @@ Cloud-native application with Go backend, Vue frontend, PostgreSQL via PGO opera
 
 Step-by-step guide for self-hosting a Discord ↔ Matrix bridge on Railway. I wrote this because the Synapse docs don't explain Railway, the mautrix-discord docs don't walk you through Synapse, Railway docs don't cover Matrix, and v0.7.x broke every existing tutorial. 7 parts, PostgreSQL to first bridged channel.
 
-#### [IHK Appointment Watcher](https://github.com/TomTris/IHK-appointment) `Go`
-
-CLI that polls the IHK Heilbronn API for §34a exam slots and alerts via macOS notification when an earlier appointment opens. Built it because I wasn't going to refresh that page 200 times a day.
-
 #### [ft_transcendence](https://github.com/TomTris/42-ft_transcendence) `Python` `JS`
 
 Final 42 project. Multiplayer Pong SPA — Django, PostgreSQL, Redis, JWT + 2FA, real-time chat, AI opponent, ModSecurity WAF, HashiCorp Vault, Docker.
-
-#### [Minishell](https://github.com/TomTris/42-Minishell) `C` — 125/125
-
-Bash 5.2 replica in pure C. Solo. Pipes, redirections, heredocs, variable expansion, wildcards, subshells, all builtins. ~300 hours across 3 weeks.
 
 #### [MiniRT](https://github.com/TomTris/42-MiniRT) `C` — 125/125
 
 Raytracer. Phong lighting, reflections, texture/bump mapping, multi-threaded rendering. Spheres, planes, cylinders, cones.
 
 ---
-
-When something matters, I build it from scratch until I understand every layer.
-When it doesn't, I get it done and move on.
 
 📍 Heilbronn, Germany  
 📫 quoctrido.jb@gmail.com
